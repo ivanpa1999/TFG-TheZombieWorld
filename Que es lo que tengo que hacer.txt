@@ -1,0 +1,67 @@
+- HECHO -- Cambiar la ficha H por R, y el nombre de humanos por la Resistencia.
+- HECHO -- Conectar los objetos con la BD (cargar y actualizar).
+- HECHO -- Cambiar el fondo del tablero poe uno más simple, y que se contraste bien con las fichas.
+- HECHO -- Resaltar las imágenes que se pulsan.
+- HECHO -- Cambiar los botones de la derecha por imágenes para hacer más minimalistas.
+- HECHO -- Cambiar el dado por una imagen en 3D (mejorar el dado si se puede).
+- HECHO -- Cambiar el tono de las ventanas que emergen (que no sea tan serio).
+- HECHO -- Poner en lo jugadores, aquellos que tienen personajes especiales.
+- HECHO -- Aumentar el número de casillas, aumentar el recorrido hacia algunas de las casillas de zona.
+- HECHO -- Cambiar que se pueda ir a casillas especiales, cambiar la foto de las casillas especiales.
+- HECHO -- Cambiar las preguntas a la pantalla principal.
+- HECHO -- Terminar de rellenar a partir del ayuntamiento y comprobar que funciona.
+- HECHO -- Cambiar de color las casillas negras por otro que se vea en toda la pantalla.
+- HECHO -- Mover lo de los personajes a la derecha.
+- HECHO -- Colocar a los jugadores por ranking de puntos.
+- FALTA VER LA CONTESTACION -- Mirar si sabemos las respuestas correctas a las preguntas, y si no las sabemos, preguntar a Lorena.
+- HECHO -- Preguntar a Lorena por como se obtienen los objetos y si estos se tienes que ver (hay que mirar si ya se lo que hacen los objetos).
+- HECHO -- Hacer algo para saber que jugadores están jugando en ese momento.
+- HECHO -- Por cada pregunta normal acertada, 100 puntos, y si falla, se restan 100 puntos. Preguntas especiales: 200 puntos entre todos los del equipo que esten jugando en ese momento.
+- HECHO -- Hacer que el profesor dentro del tablero, pueda iniciar la partida y guardarla.
+- HECHO -- Funcionar por turnos.
+- HECHO -- Hacer una especie de perfil del usuario que está jugando.
+- HECHO -- Al gestionar un usuario y borrarlo, borralo tambien de la base de datos de la partida.
+- HECHO -- A nivel de usuario, en caso de que tengas un personaje, que aparezca este.
+-PERGUNTAR EXACTAMENTE QUE QUIERE QUE PONGA AQUI -Registro de lo que cada usuario vaya haciendo.
+- HECHO -- Colocar bien el botoón de ver jugadores para cerrar la ventana.
+- HECHO -- Poner que los estudiantes reciban un personaje nulo en caso de que sea un usuario nuevo.
+- HECHO -- Chat independiente dependiendo el equipo donde estes y cambiar que siga negro el texto y poner los nombres de los jugadores.
+-HECHO -- Poner mas marcado las letras del papel.
+- HECHO -- Arreglar el problema de los dados. (FALLA SOLO EL EQUIPO ZOMBIE)
+- HECHO -- Arreglar o rehacer la clase menu estudiante para que no de error al recargar la página.
+- HECHO -- Revisar el avance de las páginas y los botones.
+- HECHO -- Cambiar el emoticono de la interrogación.
+- HECHO -- Mover las palabras del menu principal y quitar tablero.
+- HECHO -- Cambiar todos los textos.
+- HECHO -- Cambiar los puntos iniciales a 500 puntos.
+- HECHO -- Implementar vida extra.
+- HECHO -- Poner las preguntas bien, con la opción de que si responde mal el usuario y tiene vida, poder usar la vida.
+- HECHO -- Poner la opción de reiniciar la partida.
+- HECHO -- Quitar en el apartado profesor, el boton preguntas y cambiar la interrogación.
+- HECHO -- Modificar del tablero la ficha preguntas.
+- HECHO -- Revisar lo de jugadores actuales y jugadores en juego.
+- HECHO -- Cargar top cuando haya un cambio en estudiantes.
+- HECHO -- Poner efecto de los personajes especiales y los objetos especiales.
+- HECHO -- Modificar la interrogacion
+- HECHO -- Cambiar el uso de pegamento y corregir la errata del personaje humano.
+- HECHO -- Cambiar el uso de amplificador a quita 100 puntos.
+- HECHO -- Cambiar el uso de monedas a dona 100 puntos a un jugador de tu equipo.
+- HECHO -- Cambiar el uso del botiquin.
+- HECHO -- Poner interrogacion del mismo tamaño del play.
+- HECHO -- Quitar fondo pausa.
+- HECHO -- Arreglar para que si se vuelve a iniciar sesión no se vuelva a cargar en el equipo.
+- HECHO -- Cambiar para que las pestañas se cierren al pulsar fuera de la pestaña.
+- HECHO -- Quitar los imports que no se usen.
+- HECHO -- Cambiar lo de los personajes y objetos.
+- HECHO -- Poner en tablero lo que hacen los objetos al pulsarlos.
+- HECHO -- Quitar que al pulsar un punto negro se muevan hacia alli.
+- HECHO -- Mirar porque cuando hay fallo no se ocultan las respuestas.
+- HECHO -- Poner como se reciben las vidas.
+- HECHO -- Cambiar los documentos para que estén actualizandose constantemente.
+- HECHO -- Recolocar la parte izquierda del tablero.
+- HECHO -- Comprobar que el mensaje de nuevo turno en el profesor este bien.
+- HECHO -- Cambiar como se utiliza movil (en caso de que pulse al movil, comprobar a que equipo pertenece.
+- HECHO -- Cuando el profesor le da al play, que reparta los personajes especiales a los jugadores que el elija, en caso de que la partida no sea nueva.
+- Comprobar que reiniciar partida funciona correctamente (añadir una funcionalidad de partida empezada para el reparto de los personajes).
+- Terminar una partida.
+- Mirar si se puede hacer una funcion para cerrar chat y eso sin pulsar en cerrar chat.
