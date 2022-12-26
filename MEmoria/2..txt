@@ -1,3 +1,4 @@
 2.1.1 HTML -> Cita a la wikipedia
 2.1.2 CSS -> Cita a la wikipedia
 Ilustración 10 se menciona en las lineas de arriba suya.
+Ilustracion 13 se va a mencionar en varias ocasiones.
